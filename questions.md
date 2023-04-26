@@ -35,5 +35,7 @@ https://awis.org/historical-women/ada-lovelace/#:~:text=Ada%20Lovelace%2C%20an%2
 Who is the "Turing machine" named after?
 
 ```
+Alan Turing --
 
+https://www.newscientist.com/people/alan-turing/#:~:text=Alan%20Turing%20was%20one%20of,Entscheidungsproblem.
 ```
