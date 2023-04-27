@@ -29,5 +29,6 @@ Did you know that a British woman mathematician from the 19th century is widely 
 Who is the "Turing machine" named after?
 
 ```
-
+Alan Mathison Turing OBE FRS
+Alan Mathison Turing OBE FRS (/ˈtjʊərɪŋ/; 23 June 1912 – 7 June 1954) was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist.
 ```
