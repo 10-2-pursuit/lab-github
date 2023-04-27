@@ -22,7 +22,8 @@ What company famously used the phrase "Don't be evil" in their code of conduct?
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-
+Ada Lovelace
+Did you know that a British woman mathematician from the 19th century is widely recognized as the first computer programmer? Ada Lovelace is a beloved pop culture icon and a feminist trailblazer. Her work on mechanical computing devices shaped the beginnings of the invention of the modern computer.
 ```
 
 Who is the "Turing machine" named after?
